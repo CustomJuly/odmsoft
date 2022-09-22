@@ -1,0 +1,10 @@
+{
+  "mode": {
+    "symbol": {
+      "dest": "./public/",
+      "sprite": "sprite.svg",
+      "inline": true,
+      "example": true
+    }
+  }
+}
